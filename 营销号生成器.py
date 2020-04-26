@@ -1,0 +1,10 @@
+body=input("请输入事件主体：")
+event=input("请输入事件：")
+other_event=input("请输入事件的其他说法：")
+print()
+print(body+event+"是怎么回事呢？"+body+"相信大家都很熟悉，但是"+body+event+"是怎么回事呢，下面就让小编带大家一起了解吧。")
+print(body+event+"其实就是"+body+other_event+"，大家可能会很惊讶"+body+"为什么会"+event+"呢？但事实就是这样，小编也感到非常惊讶。")
+print("这就是"+body+event+"的事情了，大家有什么想法呢，欢迎在评论区告诉小编一起讨论哦！")
+print()
+i=input("按任意键退出")
+	
